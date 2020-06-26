@@ -1,2 +1,3 @@
 # hello-world
-Test repository.
+
+Just trying to get Git!
